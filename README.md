@@ -1,1 +1,1 @@
-## Terraform repository
+## Terraform repository structure
